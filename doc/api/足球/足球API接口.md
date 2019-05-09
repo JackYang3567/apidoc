@@ -4,7 +4,7 @@
 ### 1.1、基础接口
 | 接口名称 [4] | 方法 |接口URI | 最近更新者 | 更新日期|
 | :---------- | :----| :--------------------------- |:--------- |:----------------|
-|  [赛事球队变动](/doc/api/足球/赛事球队变动.html)	|GET| api/sports/football/update/profile|	 GK数据	|2019-04-19 14:43:50|
+|  [赛事球队变动](赛事球队变动.md)	|GET| api/sports/football/update/profile|	 GK数据	|2019-04-19 14:43:50|
 | 足球赛事资料	|GET |api/sports/football/matchevent/list|	 GK数据	|2019-04-19 14:50:30|
 | 足球球队资料	|GET |api/sports/football/team/list|	 GK数据	|2019-04-19 14:49:07|
 | 足球删除比赛	|GET| api/sports/football/match/deleted_ids|	 GK数据	|2019-03-14 10:15:32	|
